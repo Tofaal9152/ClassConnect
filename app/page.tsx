@@ -7,7 +7,7 @@ import { QRCodeSection } from "@/components/Poster_Design/QRCodeSection";
 
 const Page = () => {
   return (
-    <div className=" ">
+    <div className=" fg">
       <Hero />
       <Features />
       <InteractiveDemo />
